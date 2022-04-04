@@ -1,0 +1,29 @@
+.jumbotron-fluid{
+    background-color:rgb(203, 211, 219);
+    padding: 10px;
+    margin-top: 70px;
+    margin-left: 120px;
+    margin-right: 120px;
+    box-shadow: 10px;
+    position:relative;
+    background-size: cover;
+}
+.table{
+    background-color: white;
+}
+.w-75{
+    background-color: white;
+    border: 100px
+}
+.list-group{
+    background-color: white;
+    align-self: auto;
+    margin: auto;
+}
+.container1{
+    text-align: left;
+    padding: 50px;
+    margin: 30px;
+    line-height: 30px;
+    
+}
