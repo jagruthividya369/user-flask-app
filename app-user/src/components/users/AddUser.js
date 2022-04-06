@@ -105,6 +105,7 @@ const AddUser = () => {
                         <div className="form-group">
                             <input
                                 type="number"
+                                title="Please enter all 10 digits of phone number"
                                 min="1111111111"
                                 max="9999999999"
                                 className="form-control form-control-lg"
